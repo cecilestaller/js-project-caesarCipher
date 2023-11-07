@@ -5,7 +5,7 @@
 
 ## Demo
 
-Insert gif or link to demo
+https://cecilestaller.github.io/js-project-caesarCipher/
 
 ## Screenshots
 
